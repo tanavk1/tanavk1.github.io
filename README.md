@@ -1,6 +1,6 @@
 ## Tanav Kalidindi's Website
 
-You can use the [editor on GitHub](https://github.com/tanavk1/tanavk1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Tanav Kalidindi [is a programmer](https://github.com/tanavk1/tanavk1.github.io/edit/main/README.md) and an engineer working with FRC 900 and other organizations. He is also currently doing research at the startup.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
